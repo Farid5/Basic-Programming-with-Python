@@ -1,2 +1,2 @@
 # Basic-Programming-with-Python
-This basic program uses Python
+PDP_01 dengan python
